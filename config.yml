@@ -15,4 +15,4 @@ system:
   sftp:
     bind_port: 2022
 allowed_mounts: []
-remote: 'http://panel.nishantapps.in'
+remote: 'http://89.213.174.227:51521'
