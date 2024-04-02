@@ -1,10 +1,10 @@
 debug: false
-uuid: f8b9ddc7-4a89-48a1-ab49-bc1c058f5e84
-token_id: 0xpxw6z4KVIHHjEx
-token: wsw8WQ925D0dCmmUZd16LWAlaa2q6jFUVnsdrT6jEF7sct0Bd5tKZ1vBS1oNMIII
+uuid: 1c6f2fd0-17ef-46dd-bb0b-dac47272f4ce
+token_id: f5pc1O6PW0j7aIKA
+token: hKZqMbakIqAdCh8S66YyEEqrmVBc5BdqXZRrsWAJG4ynFB7x4wpQl24t0RJZVh7J
 api:
   host: 0.0.0.0
-  port: 443
+  port: 445
   ssl:
     enabled: false
     cert: /etc/letsencrypt/live/genuinely-above-cowbird.ngrok-free.app/fullchain.pem
