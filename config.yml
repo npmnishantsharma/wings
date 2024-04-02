@@ -1,0 +1,18 @@
+debug: false
+uuid: f8b9ddc7-4a89-48a1-ab49-bc1c058f5e84
+token_id: 0xpxw6z4KVIHHjEx
+token: wsw8WQ925D0dCmmUZd16LWAlaa2q6jFUVnsdrT6jEF7sct0Bd5tKZ1vBS1oNMIII
+api:
+  host: 0.0.0.0
+  port: 443
+  ssl:
+    enabled: false
+    cert: /etc/letsencrypt/live/genuinely-above-cowbird.ngrok-free.app/fullchain.pem
+    key: /etc/letsencrypt/live/genuinely-above-cowbird.ngrok-free.app/privkey.pem
+  upload_limit: 100
+system:
+  data: /var/lib/pterodactyl/volumes
+  sftp:
+    bind_port: 2022
+allowed_mounts: []
+remote: 'http://panel.nishantapps.in'
