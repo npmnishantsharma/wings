@@ -1,18 +1,18 @@
 debug: false
-uuid: 1c6f2fd0-17ef-46dd-bb0b-dac47272f4ce
-token_id: f5pc1O6PW0j7aIKA
-token: hKZqMbakIqAdCh8S66YyEEqrmVBc5BdqXZRrsWAJG4ynFB7x4wpQl24t0RJZVh7J
+uuid: aab74f1c-5daa-4b7a-9c31-e1767d8eebb3
+token_id: f4P3mDPISJIxshDq
+token: OfbdSHfYUj0h3vh6T7TnsJAe6MBP1R7BDnF30K2vS9l89HoMYd5S9ZTjvyXOhGfb
 api:
   host: 0.0.0.0
-  port: 445
+  port: 8080
   ssl:
     enabled: false
-    cert: /etc/letsencrypt/live/genuinely-above-cowbird.ngrok-free.app/fullchain.pem
-    key: /etc/letsencrypt/live/genuinely-above-cowbird.ngrok-free.app/privkey.pem
+    cert: /etc/letsencrypt/live/185.234.69.13/fullchain.pem
+    key: /etc/letsencrypt/live/185.234.69.13/privkey.pem
   upload_limit: 100
 system:
   data: /var/lib/pterodactyl/volumes
   sftp:
     bind_port: 2022
 allowed_mounts: []
-remote: 'http://89.213.174.227:51521'
+remote: 'http://185.234.69.13:3038'
